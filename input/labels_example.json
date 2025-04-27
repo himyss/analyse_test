@@ -1,0 +1,52 @@
+{
+    
+    "704": [
+        {
+            "time_range": [
+                16,
+                127
+            ],
+            "shelf": "Baseline",
+            "emotion": "",
+            
+        },
+        {
+            "time_range": [
+                197.264704,
+                226
+            ],
+            "shelf": "Neutral_1",
+            "emotion": "neutral",
+            
+        },
+        {
+            "time_range": [
+                295.822962,
+                308
+            ],
+            "shelf": "Negative",
+            "emotion": "",
+            
+        },
+        {
+            "time_range": [
+                422,
+                443
+            ],
+            "shelf": "Neutral_2",
+            "emotion": "neutral",
+            
+        },
+        {
+            "time_range": [
+                509,
+                544
+            ],
+            "shelf": "Positive",
+            "emotion": "arousal",
+            
+        }
+    ] ,
+    
+    "825" : [...]
+    }
